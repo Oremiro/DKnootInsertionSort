@@ -1,0 +1,15 @@
+/Users/bondarev/RiderProjects/GithubProjects/InsertionSort/InsertionSort/bin/Debug/net5.0/InsertionSort.deps.json
+/Users/bondarev/RiderProjects/GithubProjects/InsertionSort/InsertionSort/bin/Debug/net5.0/InsertionSort.runtimeconfig.json
+/Users/bondarev/RiderProjects/GithubProjects/InsertionSort/InsertionSort/bin/Debug/net5.0/InsertionSort.runtimeconfig.dev.json
+/Users/bondarev/RiderProjects/GithubProjects/InsertionSort/InsertionSort/bin/Debug/net5.0/InsertionSort.dll
+/Users/bondarev/RiderProjects/GithubProjects/InsertionSort/InsertionSort/bin/Debug/net5.0/ref/InsertionSort.dll
+/Users/bondarev/RiderProjects/GithubProjects/InsertionSort/InsertionSort/bin/Debug/net5.0/InsertionSort.pdb
+/Users/bondarev/RiderProjects/GithubProjects/InsertionSort/InsertionSort/obj/Debug/net5.0/InsertionSort.csproj.AssemblyReference.cache
+/Users/bondarev/RiderProjects/GithubProjects/InsertionSort/InsertionSort/obj/Debug/net5.0/InsertionSort.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bondarev/RiderProjects/GithubProjects/InsertionSort/InsertionSort/obj/Debug/net5.0/InsertionSort.AssemblyInfoInputs.cache
+/Users/bondarev/RiderProjects/GithubProjects/InsertionSort/InsertionSort/obj/Debug/net5.0/InsertionSort.AssemblyInfo.cs
+/Users/bondarev/RiderProjects/GithubProjects/InsertionSort/InsertionSort/obj/Debug/net5.0/InsertionSort.csproj.CoreCompileInputs.cache
+/Users/bondarev/RiderProjects/GithubProjects/InsertionSort/InsertionSort/obj/Debug/net5.0/InsertionSort.dll
+/Users/bondarev/RiderProjects/GithubProjects/InsertionSort/InsertionSort/obj/Debug/net5.0/ref/InsertionSort.dll
+/Users/bondarev/RiderProjects/GithubProjects/InsertionSort/InsertionSort/obj/Debug/net5.0/InsertionSort.pdb
+/Users/bondarev/RiderProjects/GithubProjects/InsertionSort/InsertionSort/obj/Debug/net5.0/InsertionSort.genruntimeconfig.cache
